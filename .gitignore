@@ -1,0 +1,10 @@
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Claude Code session storage / local notes
+.claude/
+CLAUDE.md

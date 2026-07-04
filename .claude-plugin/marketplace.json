@@ -1,0 +1,24 @@
+{
+  "name": "selic",
+  "owner": {
+    "name": "Eugene Samotija",
+    "email": "es@defency.net"
+  },
+  "metadata": {
+    "description": "Agent Skills for Claude Code, distilled from real MSP, Home Assistant, and MCP projects."
+  },
+  "plugins": [
+    {
+      "name": "selic-skills",
+      "source": ".",
+      "description": "A growing collection of Agent Skills: scaffold Home Assistant add-ons, review MCP servers, and more.",
+      "author": {
+        "name": "Eugene Samotija",
+        "email": "es@defency.net"
+      },
+      "homepage": "https://defency.net",
+      "license": "MIT",
+      "keywords": ["home-assistant", "mcp", "msp", "automation", "claude-code"]
+    }
+  ]
+}
