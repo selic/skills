@@ -1,7 +1,7 @@
 {
   "name": "selic-skills",
   "description": "A growing collection of Agent Skills: scaffold Home Assistant add-ons, review MCP servers, and more.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Eugene Samotija",
     "email": "es@defency.net"

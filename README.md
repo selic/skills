@@ -9,6 +9,7 @@ re-explain every time.
 
 | Skill | What it does |
 |-------|--------------|
+| [`publish-mcp-server`](skills/publish-mcp-server/SKILL.md) | End-to-end MCP server distribution — npm packaging, the official MCP registry, Claude Desktop `.mcpb` bundle, tagged-release automation, and directory listings. Ships a `check.mjs` preflight validator. |
 | [`ha-addon-scaffold`](skills/ha-addon-scaffold/SKILL.md) | Scaffold a production-ready Home Assistant add-on — `config.yaml` options schema, multi-arch image, s6 services, Ingress web UI, GHCR CI, docs. |
 | [`mcp-server-review`](skills/mcp-server-review/SKILL.md) | Audit an MCP server's tool design — naming, descriptions/annotations, schema strictness, output token budgets, error handling, and permission safety. |
 
